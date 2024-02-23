@@ -3,5 +3,5 @@ In this section, i had covered all the topics and questions related to trees whi
 
 1. Basic Structure
 2. Recursive Pre,In,PostOrder Traversal of BT
-3. Level order traversal
+3. Level order traversal -> Done in 2.
 4. Iterative Pre,In,PostOrder Traversal of BT
